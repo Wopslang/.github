@@ -1,12 +1,24 @@
-## Hi there 👋
+## ✨ Wops Team
 
-<!--
+<div align=center>
+  <i><strong>WE code 💻, WE dream 💭, WE lead 🥇.</strong></i>
+</div>
 
-**Here are some ideas to get you started:**
+<hr>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+```go
+func<Future> WopsTeam(wopers) {
+    Future future
+    
+    for woper in wopers {
+         Github.contribute(PR, Issues, Dev)
+         future.change(Github)
+    }
+    
+    return future
+}
+```
+
+### 📁 Repositories
+
+- [**Wopslang**](https://github.com/Wopslang/Wops): programming language for Problem Solving
