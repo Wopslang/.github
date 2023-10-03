@@ -9,15 +9,15 @@
 <hr>
 
 ```go
-func<Future> WopsTeam(wopers) {
-    Future future
-    
-    for woper in wopers {
-         Github.contribute(PR, Issues, Dev)
-         future.change(Github)
+Func<people Future> WopsTeam = {wopers, {
+        Future future
+        
+        for woper in wopers $
+             Github.contribute(PR, Issues, Dev)
+             future.change(Github)
+        ;
+        return future
     }
-    
-    return future
 }
 ```
 
